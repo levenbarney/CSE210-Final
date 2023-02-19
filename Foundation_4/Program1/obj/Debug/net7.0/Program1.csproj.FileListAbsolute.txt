@@ -1,0 +1,15 @@
+/Users/markvagil/Desktop/Csharp/ProgrammingWithClasses/Foundation_4/Program1/bin/Debug/net7.0/Program1
+/Users/markvagil/Desktop/Csharp/ProgrammingWithClasses/Foundation_4/Program1/bin/Debug/net7.0/Program1.deps.json
+/Users/markvagil/Desktop/Csharp/ProgrammingWithClasses/Foundation_4/Program1/bin/Debug/net7.0/Program1.runtimeconfig.json
+/Users/markvagil/Desktop/Csharp/ProgrammingWithClasses/Foundation_4/Program1/bin/Debug/net7.0/Program1.dll
+/Users/markvagil/Desktop/Csharp/ProgrammingWithClasses/Foundation_4/Program1/bin/Debug/net7.0/Program1.pdb
+/Users/markvagil/Desktop/Csharp/ProgrammingWithClasses/Foundation_4/Program1/obj/Debug/net7.0/Program1.csproj.AssemblyReference.cache
+/Users/markvagil/Desktop/Csharp/ProgrammingWithClasses/Foundation_4/Program1/obj/Debug/net7.0/Program1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markvagil/Desktop/Csharp/ProgrammingWithClasses/Foundation_4/Program1/obj/Debug/net7.0/Program1.AssemblyInfoInputs.cache
+/Users/markvagil/Desktop/Csharp/ProgrammingWithClasses/Foundation_4/Program1/obj/Debug/net7.0/Program1.AssemblyInfo.cs
+/Users/markvagil/Desktop/Csharp/ProgrammingWithClasses/Foundation_4/Program1/obj/Debug/net7.0/Program1.csproj.CoreCompileInputs.cache
+/Users/markvagil/Desktop/Csharp/ProgrammingWithClasses/Foundation_4/Program1/obj/Debug/net7.0/Program1.dll
+/Users/markvagil/Desktop/Csharp/ProgrammingWithClasses/Foundation_4/Program1/obj/Debug/net7.0/refint/Program1.dll
+/Users/markvagil/Desktop/Csharp/ProgrammingWithClasses/Foundation_4/Program1/obj/Debug/net7.0/Program1.pdb
+/Users/markvagil/Desktop/Csharp/ProgrammingWithClasses/Foundation_4/Program1/obj/Debug/net7.0/Program1.genruntimeconfig.cache
+/Users/markvagil/Desktop/Csharp/ProgrammingWithClasses/Foundation_4/Program1/obj/Debug/net7.0/ref/Program1.dll
